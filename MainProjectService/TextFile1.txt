@@ -1,0 +1,10 @@
+﻿API=> https://localhost:7034/
+
+API=>http://localhost:5034 //httpden de buradan kalkar ayağı
+
+
+WEB İçin  ;
+
+MVC=> https://localhost:7022
+
+MVC=> http://localhost:5022
